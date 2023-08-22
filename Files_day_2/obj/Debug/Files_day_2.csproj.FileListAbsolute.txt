@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\Visual Studio 2017\Files_day_2\Files_day_2\bin\Debug\Files_day_2.exe.config
+C:\Users\Student\Documents\Visual Studio 2017\Files_day_2\Files_day_2\bin\Debug\Files_day_2.exe
+C:\Users\Student\Documents\Visual Studio 2017\Files_day_2\Files_day_2\bin\Debug\Files_day_2.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Files_day_2\Files_day_2\obj\Debug\Files_day_2.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\Files_day_2\Files_day_2\obj\Debug\Files_day_2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Files_day_2\Files_day_2\obj\Debug\Files_day_2.exe
+C:\Users\Student\Documents\Visual Studio 2017\Files_day_2\Files_day_2\obj\Debug\Files_day_2.pdb
